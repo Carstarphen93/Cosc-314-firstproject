@@ -52,8 +52,3 @@ public class ComputerTest {
 }
 
 
- /*     P		Q		CONJ	DISJ	CON		BIC		XOR
-        true	true	true	true	true	true	false
-        true	false	false	true	false	false	true
-        false	true	false	true	true	false	true
-        false	false	false	false	true	true	false*/
