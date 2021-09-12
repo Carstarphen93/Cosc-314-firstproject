@@ -6,3 +6,4 @@ CON = conditional
 CONJ = conjunction 
 DISJ = disjunction 
 BIC = biconditional 
+XOR = exclusive OR
