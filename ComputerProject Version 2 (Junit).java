@@ -3,6 +3,8 @@ import org.junit.Test;
 
 import java.util.Scanner;
 
+//Looks good - Ruben Maidaniuc
+
 class ComputerProjectTwo {
 
     @Test
